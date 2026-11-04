@@ -1,0 +1,8 @@
+ls- it shows available of file and directory list
+cd- it use for change directory 
+pwd- it shows the present working directory 
+uname- it shows the name of the kernel cos 
+uname-r = it shows version of the kernel
+clear- it use for clear screen
+whoami- it show list currently login username
+
