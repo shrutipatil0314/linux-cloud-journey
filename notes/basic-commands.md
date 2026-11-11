@@ -44,3 +44,22 @@ tail = Last 10 lines
 tail -f = Watch a file update live (great for logs)
 nano = Edit a file
 wc -l = Count lin
+
+5. Searching 
+
+grep "word" file = Find text inside a file
+grep -r "word" . = Search all files in a folder
+find . -name "*.txt" = Find files by name
+which command = Show where a command lives
+
+6. Files and folders
+
+mkdir name = Create a folder
+mkdir -p a/b/c	= Create nested folders
+touch file.txt = Create an empty file
+cp a.txt b.txt = Copy a file
+cp -r dir1 dir2	= Copy a folder
+mv old new = Move or rename
+rm file.txt = Delete a file
+rm -r folder = Delete a folder
+rmdir folder = Delete an empty folder
