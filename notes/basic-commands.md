@@ -70,3 +70,17 @@ ps aux = List running processes
 top = Live process view (q to quit)
 kill PID = Stop a process by its ID
 systemctl status name = Check a service
+
+8. Packages (Ubuntu)
+
+sudo apt update = Refresh the package list
+sudo apt upgrade = Update installed software
+sudo apt install name = Install software
+sudo apt remove name = Remove software
+
+9. Networking
+
+ping google.com	= Test a connection
+curl url = Fetch a web page
+ip a = Show your IP addresses
+ssh user@host = Connect to another computer
