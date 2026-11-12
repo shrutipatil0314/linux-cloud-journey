@@ -63,3 +63,10 @@ mv old new = Move or rename
 rm file.txt = Delete a file
 rm -r folder = Delete a folder
 rmdir folder = Delete an empty folder
+
+7. Processes
+
+ps aux = List running processes
+top = Live process view (q to quit)
+kill PID = Stop a process by its ID
+systemctl status name = Check a service
