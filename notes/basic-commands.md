@@ -15,6 +15,7 @@ clear = clear the screen
 2. navigating the linux filesystem
 
 cd = changing directories 
+cd logs = relative path
 cd/etc
 cd.. = to move up one level in file structure
 cd~ = Go to your home folder
