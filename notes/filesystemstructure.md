@@ -31,6 +31,9 @@
 
 /mnt, /media	Mount points for other drives (in WSL, /mnt/c is your Windows C: drive)
 
+/run  runtime data
+
+/srv data for services
 
 See the structure 
 ls /                  # list the root directory

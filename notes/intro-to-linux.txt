@@ -1,0 +1,17 @@
+Introduction to Linux
+What is Linux?
+
+Linux is a free, open-source operating system, like Windows or macOS. It was created in 1991 by Linus Torvalds, and today it runs most of the internet: web servers, cloud platforms (AWS, Azure, Google Cloud), Android phones, and supercomputers.
+
+Key ideas
+Kernel: the core of the system that talks to the hardware. Linux itself is technically just the kernel.
+Distribution (distro): the kernel plus tools and software, packaged together. Examples: Ubuntu, Debian, Fedora, Red Hat, Amazon Linux.
+Open source: anyone can read, change, and share the code for free.
+Shell: the program that reads the commands you type. The most common is bash.
+Terminal: the window where you type commands.
+Why Linux matters for cloud computing
+Most cloud servers run Linux.
+It is stable, secure, and lightweight.
+It is free, so companies save on licensing costs.
+It is easy to automate with scripts.
+Tools like Docker, Kubernetes, and Terraform are built around Linux.
