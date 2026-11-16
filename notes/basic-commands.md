@@ -136,5 +136,8 @@ curl url = Fetch a web page
 
 ip a = Show your IP addresses
 
+ln = command to create a hard link 
+ln -s = to create a soft link.
+
 ssh user@host = Connect to another computer
 
