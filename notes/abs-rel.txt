@@ -1,0 +1,9 @@
+Absolute paths always begin with a forward slash (/), representing the root directory.
+
+cd /var/log
+
+Relative paths do not start with a slash and are evaluated based on your current location.
+
+cd /var
+cd log
+cd journal
