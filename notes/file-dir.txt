@@ -1,0 +1,11 @@
+Finding file and directories
+
+1 find - searches the live filesystem directly to locate file
+
+2 locate - much faster because it searches as pre built system database instead of the live disk
+
+locate fails to find an existinng file its database is likely out dated
+
+3 updatedb - as the root user to update the locate database
+
+4 mlocate software package 

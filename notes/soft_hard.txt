@@ -1,0 +1,10 @@
+inode = pointer or number of file on the hard disk
+
+soft link = link will be removed if file is removed or renamed
+
+hard link = deleting renaming or moving the orignal file will not affect the hard link
+
+in
+in -s
+
+
