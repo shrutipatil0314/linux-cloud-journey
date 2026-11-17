@@ -1,0 +1,26 @@
+*** Navigating with Absolute and Relative Paths ***
+
+Absolute paths always begin with a forward slash (/), representing the root directory.
+
+pwd
+cd /var/log
+pwd
+
+1 Absolute path success — Running pwd after providing the absolute path confirms the directory
+successfully changed to /var/log.
+
+
+
+Relative paths do not start with a slash and are evaluated based on your current location.
+
+cd /var
+cd log
+cd journal
+
+1 File vs Directory error — You cannot change into tallylog because it is a file, generating a 'Not a
+directory' error. The relative path cd journal works because it is a valid directory.
+
+1 Relative path failure — The command cd samba fails because there is no directory named samba
+located inside the current /var/log directory.
+
+
